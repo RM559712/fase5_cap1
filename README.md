@@ -49,6 +49,8 @@ Optamos em utilizar os serviços fornecidos pela AWS pelos seguintes motivos:
 
 Optamos em contratar os serviços localizados na região <strong>Leste dos EUA</strong> (<i>N. da Virgínia</i>) por conta do custo mais acessível. Infelizmente, em comparação com a região <strong>América do Sul</strong> (<i>São Paulo</i>), por mais que as configurações definidas sejam idênticas, os custos a médio/longo prazo se tornariam inviáveis. Comparando as duas cotações, a diferença chega em pouco mais de 70%, uma diferença muita alta na qual podemos utilizar em um futuro não muito distante para investirmos em melhorias na infraestrutura de servidores (<i>banco de dados, espaço para armazenamento, CPUs, etc.</i>).
 
+O arquivo contendo as estimativas podem ser visualizados através do arquivo [Estimativas](https://github.com/RM559712/fase5_cap1/blob/main/documents/Entrega2/Estimativa.pdf).
+
 Os cálculos de estimativas utilizando as regiões <strong>Leste dos EUA</strong> (<i>N. da Virgínia</i>) e <strong>América do Sul</strong> (<i>São Paulo</i>) foram efetuados a partir do serviço https://calculator.aws e pode ser visualizado através do vídeo <PENDENTE>.
 
 ![Image2](https://github.com/RM559712/fase5_cap1/blob/main/assets/images/result.png)
