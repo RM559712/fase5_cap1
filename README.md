@@ -30,13 +30,30 @@ Grupo de número <b>40</b> formado pelos integrantes mencionados abaixo.
 
 <b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=466125&c=12301
 
-### Entrega 1
+## Entrega 1
 
 <i>Pendente...</i>
 
-### Entrega 2
+## Entrega 2
 
-<i>Pendente...</i>
+### Sobre a escolha da AWS
+
+Optamos em utilizar os serviços fornecidos pela AWS pelos seguintes motivos:
+
+- Os recursos são facilmente escolonáveis de acordo com a necessidade. Automaticamente, os serviços são cobrados de acordo com a utilização ou ajustes nas configurações;
+- Possui uma infraestrutura global, distribuídos em diferentes regiões do planeta. Com isso, é possível contratar determinados serviços em regiões com valores mais acessíveis;
+- Possui diversos protocolos de segurança, garantindo ao máximo a confiabilidade para armazenamento de dados;
+- Possui uma ampla documentação para todos os serviços disponibilizados. Além disso, possui um suporte técnico com disponibilidade 24/7;
+
+### Sobre a escolha da região
+
+Optamos em contratar os serviços localizados na região <strong>Leste dos EUA</strong> (<i>N. da Virgínia</i>) por conta do custo mais acessível. Infelizmente, em comparação com a região <strong>América do Sul</strong> (<i>São Paulo</i>), por mais que as configurações definidas sejam idênticas, o custo a médio/longo prazo se tornariam inviáveis. Comparando as duas cotações, a diferença chega em pouco mais de 70%, uma diferença muita alta na qual podemos utilizar em um futuro não muito distante para investirmos em uma melhor infraestrutura de servidores (<i>banco de dados, espaço para armazenamento, CPUs, etc.</i>).
+
+![Image2](https://github.com/RM559712/fase5_cap1/blob/main/assets/images/result.png)
+
+![Image2](https://github.com/RM559712/fase5_cap1/blob/main/assets/images/report.png)
+
+
 
 ## 📁 Estrutura de pastas
 
