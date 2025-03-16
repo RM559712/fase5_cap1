@@ -85,7 +85,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-Esse projeto não possui parte técnica para execução.
+Como se trata de uma versão em formato <i>jupyter notebook</i>, para execução das funcionalidades, os seguintes passos devem ser seguidos:
+
+1. <PENDENTE>
 
 ## 📋 Licença
 
