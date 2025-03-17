@@ -94,5 +94,4 @@ Como se trata de uma versão em formato <strong>Jupyter Notebook</strong>, para 
 
 ## 📋 Licença
 
-Desenvolvido pelo Grupo 40 para o projeto da fase 5 
-(<i>Cap 1 - FarmTech na era da cloud computing</i>) da <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a>. Está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+Desenvolvido pelo Grupo 40 para o projeto da fase 5 (<i>Cap 1 - FarmTech na era da cloud computing</i>) da <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a>. Está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
