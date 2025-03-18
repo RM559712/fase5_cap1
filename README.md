@@ -32,7 +32,7 @@ Grupo de número <b>40</b> formado pelos integrantes mencionados abaixo.
 
 ## Entrega 1
 
-<i>Pendente...</i>
+<i>Carregando...</i>
 
 ## Entrega 2
 
