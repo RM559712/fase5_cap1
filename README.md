@@ -32,7 +32,7 @@ Grupo de número <b>40</b> formado pelos integrantes mencionados abaixo.
 
 ## Entrega 1
 
-As análises contendo os modelos preditivos, utilizando diferentes algoritmos, estão disponíveis para execução a partir do diretório `\src` utilizando <strong>Jupyter Notebook</strong>. Para mais informações sobre como executá-los, basta visualizar o item [Como executar o código](CiroHenrique-RM559040_EnydBentivoglio-RM560234_MarcoFranzoi-RM559468_RodrigoMazuco-RM559723).
+As análises contendo os modelos preditivos, utilizando diferentes algoritmos, estão disponíveis para execução a partir do diretório `\src` utilizando <strong>Jupyter Notebook</strong>. Para mais informações sobre como executá-los, basta visualizar o item [Como executar o código](https://github.com/RM559712/fase5_cap1?tab=readme-ov-file#-como-executar-o-c%C3%B3digo).
 
 A execução de todo o processo também pode ser visualizada através de um vídeo clicando [aqui](<PENDENTE>).
 
